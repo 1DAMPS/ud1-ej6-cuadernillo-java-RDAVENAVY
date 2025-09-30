@@ -1,0 +1,1 @@
+2edad(no valido), _curso(valido), while(no valido), Nombre(valido), precioTotal(valido).
