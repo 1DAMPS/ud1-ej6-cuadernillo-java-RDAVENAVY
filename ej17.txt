@@ -1,0 +1,2 @@
+Porque si se sobre pasa ese valor el codigo no daria un resultado no deseado como por ejemplo:
+el siguiente valor del maximo a la hora de sumarlo daria una version en negativo
