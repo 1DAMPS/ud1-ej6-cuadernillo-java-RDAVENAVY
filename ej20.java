@@ -1,4 +1,4 @@
-/*
+/** 
 
 La clase consiste en la multiplicacion de dos y mostrar el resultado
 
