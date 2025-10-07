@@ -1,6 +1,6 @@
 /*
 
-La clase consiste en la resta de dos
+La clase consiste en la multiplicacion de dos y mostrar el resultado
 
 @author david
 @version 1.0
@@ -9,7 +9,10 @@ La clase consiste en la resta de dos
 public class ej20 {
     public static void main(String[] args){
 
-
+        int number1 = 2;
+        int number2 = 3;
+        int resul = number1 * number2;
+        System.out.println("El resultado de la multiplicacion: " + resul);
 
     }
 }
